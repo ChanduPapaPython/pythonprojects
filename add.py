@@ -1,6 +1,4 @@
-a=1
-b=10
-c=10
-c=a+b+c
-print("the sum of 3 values",c)
-
+a=9556
+b=5665 
+c=a+b
+print("the addition of 2 numbers",c)
