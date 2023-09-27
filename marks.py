@@ -13,3 +13,5 @@ print("\n physics marks are",physics)
 print("\n telugu marks are",telugu)
 print("\n hindi marks are",hindi)
 print("\n chemistry marks are",chemistry)
+
+print("higgest marks",maths,english,physics,telugu,hindi,chemistry)
