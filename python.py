@@ -39,8 +39,7 @@ if(science<35):
 if(social<35):
     print("social subject failed",social)
     
-if(telugu>hindi and telugu>english and telugu>maths and telugu>science and telugu>social):
-    print("\n the telugu subject marks are higher than 5 subjects : ",telugu)
+
 
         
     
